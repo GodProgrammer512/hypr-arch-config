@@ -1,0 +1,1 @@
+Unzip the rofi.zip file and exclude everything else the extracted files (rofi.zip after extract and this read-me).
